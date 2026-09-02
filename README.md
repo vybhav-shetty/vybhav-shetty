@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Vybhav 👋
 
-<!--
-**vybhav-shetty/vybhav-shetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 ITSM Professional | Manager, Major Incident Management | AI & Automation Enthusiast
 
-Here are some ideas to get you started:
+I enjoy building practical solutions that improve operational efficiency, enhance stakeholder communication, and simplify complex ITSM processes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What you'll find here
+
+🤖 AI & Copilot Agents  
+⚡ ServiceNow & ITSM Automation   
+📢 Major Incident Management Solutions  
+🔧 Process Improvement Initiatives
+
+### Featured Projects
+
+📱 SMS Communication Agent
+- Built using Claude Sonnet 4.6
+- Reduced SMS volume by more than 70%
+- Improved communication consistency and operational efficiency
+
+💡 Always exploring ways to combine AI, automation, and service management to solve real-world operational challenges.
