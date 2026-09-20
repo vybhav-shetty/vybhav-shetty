@@ -13,11 +13,8 @@ I enjoy building practical solutions that improve operational efficiency, enhanc
 
 ## Featured Projects
 
-### 📱 SMS Communication Agent
+### 📱 [SMS Communication Agent](https://github.com/vybhav-shetty/AI-Powered-Major-Incident-SMS-Communication-Agent)
 Developed an AI-powered communication solution that converts detailed Major Incident email updates into stakeholder-ready SMS notifications while enforcing GSM-7 compliance and 160-character limits.
-
-https://github.com/vybhav-shetty/AI-Powered-Major-Incident-SMS-Communication-Agent | 
-https://github.com/vybhav-shetty/AI-Powered-Major-Incident-SMS-Communication-Agent/blob/main/Solution%20Architecture
 
   **Business Impact**
   - 📉 Reduced SMS volume by **70%+**
