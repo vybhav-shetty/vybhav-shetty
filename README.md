@@ -11,11 +11,15 @@ I enjoy building practical solutions that improve operational efficiency, enhanc
 📢 Major Incident Management Solutions  
 🔧 Process Improvement Initiatives
 
-### Featured Projects
+## Featured Projects
 
-📱 SMS Communication Agent
-- Built using Claude Sonnet 4.6
-- Reduced SMS volume by more than 70%
-- Improved communication consistency and operational efficiency
+### 📱 SMS Communication Agent
+Developed an AI-powered communication solution that converts detailed Major Incident email updates into stakeholder-ready SMS notifications while enforcing GSM-7 compliance and 160-character limits.
+
+  **Business Impact**
+  - 📉 Reduced SMS volume by **70%+**
+  - 💰 Lowered SMS communication costs
+  - ⚡ Accelerated stakeholder communication turnaround times
+  - 🎯 Improved communication consistency and quality
 
 💡 Always exploring ways to combine AI, automation, and service management to solve real-world operational challenges.
