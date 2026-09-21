@@ -32,4 +32,14 @@ Developed a ServiceNow-based communication platform that automated stakeholder c
   - 👥 Centralised stakeholder distribution management and governance
   - 🔍 Enhanced communication traceability and historical visibility
 
+### 📋 [Major Incident Review & Reporting Platform](https://github.com/vybhav-shetty/Major-Incident-Review-And-Reporting-Platform)
+Developed a ServiceNow-based platform that centralised the end-to-end Major Incident Review lifecycle, replacing fragmented Microsoft Word-based processes with structured review workflows, stakeholder collaboration, approval governance, and automated report publication.
+
+ **Business Impact**
+  - ⏱️ Accelerated post-incident review turnaround times, enabling faster root cause analysis, corrective action planning, and lessons learnt identification.
+  - 📉 Reduced administrative effort for Major Incident Managers by centralising review coordination, approvals, notifications, report generation, and stakeholder engagement within a single platform.
+  - 🎯 Improved the quality, consistency, and completeness of Major Incident Reviews through structured workflows, standardised review processes, and governed approval controls.
+  - ✅ Strengthened governance, compliance, and audit readiness through fully traceable review records, approvals, stakeholder comments, and report history.
+  - 🤝 Enhanced stakeholder collaboration by replacing document-based reviews with structured, screen-based review sessions and centralised feedback management.
+
 💡 Always exploring ways to combine AI, automation, and service management to solve real-world operational challenges.
